@@ -1,0 +1,24 @@
+{
+    "id": "9261DA16",
+    "path": "~/Documents/paulisdataviz/portfolio/my_portfolio/config/_default/menus.yaml",
+    "project_path": "config/_default/menus.yaml",
+    "type": "yaml",
+    "hash": "2743616753",
+    "contents": "",
+    "dirty": false,
+    "created": 1650235616196.0,
+    "source_on_save": false,
+    "relative_order": 24,
+    "properties": {
+        "cursorPosition": "17,13",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1650235659,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1650235659486,
+    "read_only": false,
+    "read_only_alternatives": []
+}

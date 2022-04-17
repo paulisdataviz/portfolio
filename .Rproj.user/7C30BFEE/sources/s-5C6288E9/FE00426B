@@ -1,0 +1,24 @@
+{
+    "id": "FE00426B",
+    "path": "~/Documents/paulisdataviz/portfolio/my_portfolio/config/_default/params.yaml",
+    "project_path": "config/_default/params.yaml",
+    "type": "yaml",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1650234987048.0,
+    "source_on_save": false,
+    "relative_order": 23,
+    "properties": {
+        "cursorPosition": "13,0",
+        "scrollLine": "5"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1650235337,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1650235337504,
+    "read_only": false,
+    "read_only_alternatives": []
+}
