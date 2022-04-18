@@ -1,9 +1,13 @@
 {
     "sortOrder": [
         {
+            "columnIndex": 3,
+            "ascending": false
+        },
+        {
             "columnIndex": 2,
             "ascending": false
         }
     ],
-    "path": "~/Documents/paulisdataviz/portfolio/my_portfolio/content/home"
+    "path": "~/Documents/paulisdataviz/portfolio/my_portfolio/content/post"
 }
