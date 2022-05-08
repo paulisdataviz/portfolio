@@ -2,6 +2,12 @@
 bio: My interests include Data Analytics, Data Visualization and Data Wrangling.
 education:
   courses:
+  - course: Data Science for Business with R - Part 1 Certificate
+    institution: Business Science University
+    year: 2019
+  - course: Data Analysis for Enterprise Nanodegree
+    institution: Udacity
+    year: 2018
   - course: MSc in Telecommunications System Management
     institution: Northeastern University
     year: 2016
@@ -9,8 +15,10 @@ education:
     institution: Univeristy of Massachusetts
     year: 2012
   - course: BSc in Electronics' Engineering
-    institution: Santo Tomás de Aquino
+    institution: Santo Tomás de Aquino, Bogota - Colombia
     year: 2007
+
+    
     
     
 email: ""
@@ -55,6 +63,10 @@ I’m currently working as a Data Visualization and Analytics consultant at CLEA
 
 I'm a Techie and lifelong learner. When I'm not working or enjoying time with my family, I like to spend time improving my skills and learning new tools or techniques.
 
-I graduated as an Electronics' Engineer and have a M.S. in Telecommunications System Management. After spending several years working in Tech within the Telecom Industry, I discovered Data Analytics and became very passionate about Data Visualization and Data Wrangling.
+I graduated as an Electronics' Engineer, I have a second B.S in Information Technology and hold a M.S. in Telecommunications System Management. 
+
+After spending several years working in Tech within the Telecom Industry mostly within the areas of Technical Support, Network Engineering and Operations, I discovered Data Analytics and became very passionate about Data Visualization and Data Wrangling.
+
+My favorite tools are Tableau and R.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume2.pdf" "newtab" >}}resume{{< /staticref >}}.
